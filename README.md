@@ -1,6 +1,8 @@
-# DSCI100_team24_project_proposal
-For team24 DSCI100 UBC
+# DSCI100: Team 24 Project Proposal
 
+Date: March 6th, 2021
+Authors: Kian Da Costa, Jack He, Dani Fookes, Ethan Tse
 
-Test writing README in Jupyter 
+# Background
 
+This is a project for the DSCI100 course at The University of British Columbia for Winter Term 2 of the 2020-2021 school Year
